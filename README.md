@@ -1,6 +1,6 @@
 # Image2Ascii
 
-https://pypi.org/project/image-asciier/0.1/
+https://pypi.org/project/asciier/
 
 # how to use
 
