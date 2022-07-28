@@ -1,4 +1,4 @@
-from PIL import Image import ascii2text
+from PIL import Image
 
 def image2ascii(in_, out):
 	img = Image.open(in_)
